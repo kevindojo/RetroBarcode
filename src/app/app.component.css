@@ -1,0 +1,11 @@
+#header {
+    font-size: 50pt;
+    font-style: sans-serif;
+}
+
+span {
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+
+}
